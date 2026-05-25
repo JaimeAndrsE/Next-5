@@ -1,9 +1,3 @@
 {
-  "buildCommand": "next build",
-  "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "@supabase_url",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase_anon_key",
-    "SUPABASE_SERVICE_KEY": "@supabase_service_key",
-    "VERCEL_BLOB_TOKEN": "@vercel_blob_token"
-  }
+  "buildCommand": "next build"
 }
